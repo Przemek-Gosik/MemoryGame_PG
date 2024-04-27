@@ -11,6 +11,7 @@
 		3FBC9AC82BDCFD400065F29E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FBC9AC72BDCFD400065F29E /* ContentView.swift */; };
 		3FBC9ACA2BDCFD7C0065F29E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FBC9AC92BDCFD7C0065F29E /* Assets.xcassets */; };
 		3FBC9ACD2BDCFD7C0065F29E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FBC9ACC2BDCFD7C0065F29E /* Preview Assets.xcassets */; };
+		3FBC9AD42BDCFF130065F29E /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FBC9AD32BDCFF130065F29E /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3FBC9AC72BDCFD400065F29E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3FBC9AC92BDCFD7C0065F29E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FBC9ACC2BDCFD7C0065F29E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3FBC9AD32BDCFF130065F29E /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		3FBC9AC42BDCFD400065F29E /* MemoryGame_PG */ = {
 			isa = PBXGroup;
 			children = (
+				3FBC9AD32BDCFF130065F29E /* CardView.swift */,
 				3FBC9AC52BDCFD400065F29E /* MemoryGame_PGApp.swift */,
 				3FBC9AC72BDCFD400065F29E /* ContentView.swift */,
 				3FBC9AC92BDCFD7C0065F29E /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FBC9AC82BDCFD400065F29E /* ContentView.swift in Sources */,
+				3FBC9AD42BDCFF130065F29E /* CardView.swift in Sources */,
 				3FBC9AC62BDCFD400065F29E /* MemoryGame_PGApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
